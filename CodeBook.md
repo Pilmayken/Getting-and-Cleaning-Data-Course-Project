@@ -1,4 +1,4 @@
-Files:
+Files used:
 
 - features.txt: Names of the 561 features.
 - activity_labels.txt: Names and IDs for each of the 6 activities.
